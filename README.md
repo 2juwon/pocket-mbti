@@ -1,6 +1,6 @@
 # pocket-mbti
 
-12문제에 답하면 내 MBTI와 성향이 닮은 포켓몬을 알려 주는 재미용 테스트예요.
+포켓몬 트레이너가 되어 여행 속 12가지 순간에 어떻게 할지 고르면, 내 MBTI와 성향이 닮은 포켓몬을 알려 주는 재미용 테스트예요.
 
 - 바로 하기: https://2juwon.github.io/pocket-mbti/ (Settings → Pages에서 `main` / `root`를 켜면 열려요)
 
